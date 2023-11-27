@@ -1,2 +1,4 @@
-# uconsole_notes
-notes about working with the uConsole from clockwork pi.
+# uConsole Notes
+Notes about working with the uConsole from clockwork pi.
+
+
